@@ -1,5 +1,5 @@
 # SeleniumWebDriverwithJava
-Test Autamation University kursunda yapılan proje
+Test Autamation University kursunda yaptığım proje
 
 KULLANILAN TEKNOJİLER
 
