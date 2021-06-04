@@ -8,9 +8,9 @@ IntelliJ
 Chrome Browser
 Chrome Driver Executable Version 90
 
-- Finding web elements
-- Interacting with dropdown elements
+- Finding Web Elements
+- Interacting with Dropdown Elements
 - Alerts
-- FileUploads
-- Using Javascripts
-- Taking screenshots
+- File Uploads
+- Using JavaScripts
+- Taking Screenshots
